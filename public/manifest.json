@@ -1,0 +1,22 @@
+{
+    "name": "Taskly Done",
+    "short_name": "Taskly",
+    "description": "Gamified productivity and task management.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "/apple-touch-icon.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/taskly-icon.svg",
+        "sizes": "any",
+        "type": "image/svg+xml"
+      }
+    ]
+  }
